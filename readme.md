@@ -1,1 +1,6 @@
 ## GIT (FUNDAMENTOS)
+1. git init (Inicializa GIT, solo se usa una vez)
+2. git status (te brinda la situacion del flujo)
+3. git add . ( te pasa todos los archivos con cambios al staging area)
+4. git commit -m(te pasa todos los archivos al git directory)
+git log (devuelve el historial commits)
